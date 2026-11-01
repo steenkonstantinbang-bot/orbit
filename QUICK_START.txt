@@ -1,0 +1,1 @@
+1) Open OrbitZero.xcodeproj in Xcode. 2) Select Signing Team and iPhone. 3) Product > Clean Build Folder. 4) Run. 5) Open Hangar from home menu. Configure IAP product IDs using APP_STORE_CONNECT_PRODUCTS.csv.
